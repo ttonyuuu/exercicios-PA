@@ -1,0 +1,2 @@
+# exercicios-PA
+ logica /programação
